@@ -6,7 +6,7 @@ const { Layout } = DefaultTheme
 
 async function subscribe(email: string) {
   try {
-    const response = await axios.post(`https://newsletter-api.fndx.app/subscribe?mail=${email}`, null, {
+    const response = await axios.post(`https://fndx.app/api/subscribe?mail=${email}`, null, {
       headers: {
         'Content-Type': 'application/json',
         'Access-Control-Allow-Origin': '*'
