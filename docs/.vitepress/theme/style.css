@@ -42,7 +42,7 @@
  * - `danger`: Used to show error, or dangerous message to the users. Used
  *   in custom container, badges, etc.
  * -------------------------------------------------------------------------- */
-brand-1: #FEBE19;
+
  :root {
   --vp-c-default-1: var(--vp-c-gray-1);
   --vp-c-default-2: var(--vp-c-gray-2);
@@ -137,3 +137,34 @@ brand-1: #FEBE19;
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+
+.image-src {
+  max-width: 400px !important;
+  max-height: 400px !important;
+
+  top: 50% !important;
+}
+
+@media (min-width: 640px) {
+  .image-src {
+    max-width: 600px !important;
+    max-height: 600px !important;
+
+    top: 55% !important;
+  }
+}
+
+@media (min-width: 960px) {
+  .image-src {
+    max-width: 720px !important;
+    max-height: 720px !important;
+
+    top: 60% !important;
+  }
+}
+
+.dark {
+  .vp-doc blockquote {
+  --vp-c-divider: var(--vp-c-red-3);
+}
+}

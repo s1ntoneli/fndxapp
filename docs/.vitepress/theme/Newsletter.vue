@@ -4,48 +4,76 @@ import axios from 'axios';
 
 const { Layout } = DefaultTheme
 
+window.alert = function (name) {
+  var iframe = document. createElement ("IFRAME");
+  iframe.style.display="none";
+  iframe.setAttribute("src", 'data:text/plain,');
+  document.documentElement.appendChild(iframe);
+  window.frames[0].window.alert (name);
+  iframe.parentNode?.removeChild(iframe);
+}
+
 async function subscribe(email: string) {
   try {
-    const response = await axios.post(`/subscribe?mail=${email}`, null, {
+    console.log('email', email);
+    const response = await axios.post(`https://newsletter-api.fndx.app/subscribe?mail=${email}`, null, {
       // const response = await axios.post(`/helloworld`, null, {
       headers: {
         'Content-Type': 'application/json',
-        'Access-Control-Allow-Origin': '*'
+        'Access-Control-Allow-Origin': '*',
+      'Access-Control-Allow-Headers': '*',
+      'Access-Control-Allow-Methods': 'GET, OPTIONS, POST, PUT, DELETE',
+      'Access-Control-Max-Age': '86400',
       }
     });
-    if (response.data.code === 200) {
+    console.log(response);
+    if (response.data.code === 0) {
       return true;
     } else {
       return false;
     }
   } catch (error) {
+    console.log('error');
     console.error(error);
     return false;
   }
+}
+
+function isValidEmail(email) {
+  return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)
 }
 
 const handleClick = async () => {
   // 发送 put请求到 fndx-newsletter.auv1107.workers.dev/subscribe?mail=xxx
   // 获取 input 的值
   const email = document.querySelector('input')?.value
-  if (email) {
+  if (email && isValidEmail(email)) {
     if (await subscribe(email)) {
-      alert('订阅成功！')
+      console.log('订阅成功！')
+      alert('Subscribe Success!')
+    } else {
+      console.log('订阅失败！')
+      alert('Server Error!')
     }
   } else {
-    alert('email 为空')
+    alert('Email is invalid!')
   }
 }
 
 </script>
 
 <template>
-  <div class="flex justify-center items-center pb-8">
+  <div class="flex justify-center items-center mt-16">
     <div>
-      <input type="email" placeholder="输入邮箱地址" class="py-2 px-4 border border-blue-300 rounded-l-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent">
-      <button @click="handleClick" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-r-md">
-        Subscribe
-      </button>
+      <div class="flex justify-center items-center">
+        <input type="email" placeholder="Email Address" class="py-2 px-4 border rounded-md focus:ring-2 ring-2 ring-blue-500 w-72">
+        <button @click="handleClick" class="ml-4 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-md">
+          Subscribe
+        </button>
+      </div>
+      <div class="flex justify-center items-center">
+        <span class="mt-4 opacity-50 w-100 mx-4">🙋🏻🙋‍♂️🙋🏽‍♀️ Subscribe for the latest Damn-X Product updates!</span>
+      </div>
     </div>
   </div>
 </template>
