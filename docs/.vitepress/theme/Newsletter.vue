@@ -1,20 +1,24 @@
 <script setup lang="ts">
 import DefaultTheme from 'vitepress/theme'
+import axios from 'axios';
 
 const { Layout } = DefaultTheme
 
 async function subscribe(email: string) {
-  const response = await fetch(`https://newsletter-api.fndx.app/subscribe?mail=${email}`, {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'Access-Control-Allow-Origin': '*'
+  try {
+    const response = await axios.post(`https://newsletter-api.fndx.app/subscribe?mail=${email}`, null, {
+      headers: {
+        'Content-Type': 'application/json',
+        'Access-Control-Allow-Origin': '*'
+      }
+    });
+    if (response.data.code === 200) {
+      return true;
+    } else {
+      return false;
     }
-  });
-  const data = await response.json();
-  if (data.code === 200) {
-    return true;
-  } else {
+  } catch (error) {
+    console.error(error);
     return false;
   }
 }
