@@ -37,5 +37,5 @@ async function fetch(request, env) {
 }
 
 export async function onRequest(context) {
-    return fetch(context.request, context.env)
+    return await fetch(context.request, context.env)
 }
