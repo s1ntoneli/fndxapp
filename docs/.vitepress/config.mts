@@ -24,6 +24,7 @@ export default defineConfig({
     ['meta', { name: "twitter:image", content: "https://fndx.app/img/hero-image.webp"}],
   ],
   appearance: "force-dark",
+  lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/img/fndx-logo.png',
