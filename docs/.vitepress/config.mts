@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Find Next Damn-X App",
-  description: "There aren't many apps that make you say \"Damn Good!\" but we'll help you find it.",
+  description: "There aren't many apps that make you say \"Damn Good!\" but we'll help you find them.",
   head: [
     ['script', { src: 'https://cdn.tailwindcss.com' }],
     ['link', {rel: "apple-touch-icon", sizes: "180x180", href: "/apple-touch-icon.png" }],
@@ -41,7 +41,7 @@ export default defineConfig({
     }
   },
   sitemap: {
-    hostname: 'https://fndx.com',
+    hostname: 'https://fndx.app',
     lastmodDateOnly: false
   }
 })
