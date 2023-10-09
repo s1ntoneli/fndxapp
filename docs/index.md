@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Find Your Next DAMN-X App, not shits"
-  tagline: Few apps elicit a "Damn" reaction, but fear not, we'll assist you in locating it.
+  name: "Find your Next DAMN-GOOD App, not shits"
+  tagline: There aren't many apps that make you say "Damn Good!", but we'll help you find them.
   image:
     src: /img/hero-image.webp
 ---

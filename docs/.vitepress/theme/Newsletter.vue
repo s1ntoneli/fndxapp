@@ -63,7 +63,7 @@ const handleClick = async () => {
         </button>
       </div>
       <div class="flex justify-center items-center">
-        <span class="mt-4 opacity-50 w-100 mx-4">🙋🏻🙋‍♂️🙋🏽‍♀️ Subscribe for the latest Damn-X Product updates!</span>
+        <span class="mt-4 opacity-50 w-100 mx-4">🙋🏻🙋‍♂️🙋🏽‍♀️ Subscribe for the latest Damn-Good Product updates!</span>
       </div>
     </div>
   </div>

@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Find Next Damn-X App",
+  title: "Find Next Damn-Good App",
   description: "There aren't many apps that make you say \"Damn Good!\" but we'll help you find them.",
   head: [
     ['script', { src: 'https://cdn.tailwindcss.com' }],
@@ -11,8 +11,8 @@ export default defineConfig({
     ['link', {rel: "icon", type: "image/png", sizes: "16x16", href: "/favicon-16x16.png" }],
     ['link', {rel: "icon", type: "image/ico", href: "/favicon.ico" }],
     ['link', {rel: "manifest", href: "/site.webmanifest" }],
-    ['meta', { property: 'og:title', content: 'fndx.app - Find Next Damn-X App' }],
-    ['meta', { property: 'og:description', content: 'There aren\'t many apps that make you say "Damn Good!" but we\'ll help you find it.' }],
+    ['meta', { property: 'og:title', content: 'fndx.app - Find Next Damn-Good App' }],
+    ['meta', { property: 'og:description', content: 'There aren\'t many apps that make you say "Damn Good!" but we\'ll help you find them.' }],
     ['meta', { property: 'og:image', content: 'https://fndx.app/img/hero-image.webp' }],
     ['meta', { property: 'og:url', content: 'https://fndx.app/' }],
     ['meta', { property: 'og:type', content: 'website' }],
@@ -38,7 +38,7 @@ export default defineConfig({
 
     footer: {
       message: 'Made by <a href="https://fndx.app" target="_blank">FNDX.app</a>',
-      copyright: '<a href="https://cleanclip.cc" target="_blank">Find Your Next DAMN-X App🔥</a>'
+      copyright: '<a href="https://cleanclip.cc" target="_blank">Find Your Next DAMN-GOOD App🔥</a>'
     }
   },
   sitemap: {

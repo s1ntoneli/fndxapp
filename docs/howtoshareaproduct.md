@@ -1,6 +1,6 @@
 # Share Your Favorite Products
 
-Hey Damn-X Shouter,
+Hey Damn-Gooders,
 
 Send an email 📮 to [**share@fndx.app**](mailto:share@fndx.app?subject=Share%20My%20Favorite%20Product!), shout out the product address and your favorite features, no need for further introduction! We will download and experience it.
 
