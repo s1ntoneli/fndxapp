@@ -22,12 +22,15 @@ export default defineConfig({
     ['meta', { name: "twitter:site", content: "@s1ntone"}],
     ['meta', { name: "twitter:creator", content: "@s1ntone"}],
     ['meta', { name: "twitter:image", content: "https://fndx.app/img/hero-image.webp"}],
+    ['link', { rel: "preconnect", href: "https://fonts.googleapis.com" }],
+    ['link', { rel: "preconnect", href: "https://fonts.gstatic.com", crossorigin: true }],
+    ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200;12..96,400;12..96,600;12..96,800&display=swap' }],
   ],
   appearance: "force-dark",
   lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/img/fndx-logo.png',
+    logo: '/img/fndx-logo2.png',
     nav: [
       { text: 'Share Your Favorite Products', link: '/howtoshareaproduct' },
     ],

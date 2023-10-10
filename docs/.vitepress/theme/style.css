@@ -168,3 +168,11 @@
   --vp-c-divider: var(--vp-c-red-3);
 }
 }
+
+* {
+  font-family: 'Bricolage Grotesque', sans-serif;
+}
+
+.name {
+  font-size: 4rem !important;
+}

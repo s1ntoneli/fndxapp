@@ -57,9 +57,9 @@ const handleClick = async () => {
   <div class="flex justify-center items-center mt-16">
     <div>
       <div class="flex justify-center items-center">
-        <input type="email" placeholder="Email Address" class="py-2 px-4 border rounded-md focus:ring-2 ring-2 ring-blue-500 w-72">
-        <button @click="handleClick" class="ml-4 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-md">
-          Subscribe
+        <input type="email" placeholder="Enter your email" class="py-2 px-4 border rounded-md focus:ring-2 ring-2 ring-blue-500 w-72" style="appearance: none; width: 100%; height: auto; outline: none; border: none; padding: 16px 16px 16px 24px; border-radius: 58px; font-size: 16px; font-family: Inter, sans-serif; letter-spacing: 0em; line-height: 1em; background: rgb(39, 43, 46); color: rgb(255, 255, 255); box-shadow: rgb(255, 255, 255) 0px 0px 0px 0px inset;">
+        <button @click="handleClick" class="ml-4 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-md" style="-webkit-appearance:none;appearance:none;width:50%;height:100%;outline:none;border:none;cursor:pointer;padding:15px 25px 15px 25px;border-radius:58px;font-weight:500;font-size:16px;font-family:&quot;Inter-Medium&quot;, &quot;Inter&quot;, sans-serif;font-style:normal;letter-spacing:0em;line-height:1em;background:rgb(255, 255, 255);color:rgb(39,43,46);z-index:1;box-shadow:none;">
+          Get updates →
         </button>
       </div>
       <div class="flex justify-center items-center">
