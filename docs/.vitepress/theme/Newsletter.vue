@@ -65,6 +65,9 @@ const handleClick = async () => {
       <div class="flex justify-center items-center">
         <span class="mt-4 opacity-50 w-100 mx-4">🙋🏻🙋‍♂️🙋🏽‍♀️ Subscribe for the latest Damn-Good Product updates!</span>
       </div>
+      <div class="flex justify-center items-center mt-12 footer">
+        <a href="https://www.producthunt.com/posts/find-next-damn-good-app?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-find&#0045;next&#0045;damn&#0045;good&#0045;app" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=418594&theme=light" alt="Find&#0032;Next&#0032;Damn&#0045;Good&#0032;App - Find&#0032;your&#0032;next&#0032;Damn&#0045;Good&#0032;App&#0044;&#0032;not&#0032;shits&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+      </div>
     </div>
   </div>
 </template>
