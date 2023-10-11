@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Discover Mac Wow Apps",
+  title: "Discover WoW Mac Apps",
   description: "There are some productivity apps on macOS that make you say \"Wow!\", we'll help you find them.",
   head: [
     ['script', { src: 'https://cdn.tailwindcss.com' }],
