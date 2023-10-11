@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Mac Wow Apps",
-  description: "There aren't many apps on macOS that make you say \"Wow!\" but we'll help you find them.",
+  title: "Discover Mac Wow Apps",
+  description: "There are some productivity apps on macOS that make you say \"Wow!\", we'll help you find them.",
   head: [
     ['script', { src: 'https://cdn.tailwindcss.com' }],
     ['link', {rel: "apple-touch-icon", sizes: "180x180", href: "/apple-touch-icon.png" }],
@@ -12,7 +12,7 @@ export default defineConfig({
     ['link', {rel: "icon", type: "image/ico", href: "/favicon.ico" }],
     ['link', {rel: "manifest", href: "/site.webmanifest" }],
     ['meta', { property: 'og:title', content: 'fndx.app - Find Next Damn-Good App' }],
-    ['meta', { property: 'og:description', content: 'There aren\'t many apps that make you say "Damn Good!" but we\'ll help you find them.' }],
+    ['meta', { property: 'og:description', content: 'There are some productivity apps on macOS that make you say \"Wow!\", we\'ll help you find them.' }],
     ['meta', { property: 'og:image', content: 'https://fndx.app/img/hero-image.webp' }],
     ['meta', { property: 'og:url', content: 'https://fndx.app/' }],
     ['meta', { property: 'og:type', content: 'website' }],

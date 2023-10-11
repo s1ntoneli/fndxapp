@@ -65,6 +65,11 @@ const handleClick = async () => {
       <div class="flex justify-center items-center">
         <span class="mt-4 opacity-50 w-100 mx-4">🙋🏻🙋‍♂️🙋🏽‍♀️ Subscribe for the latest Damn-Good Product updates!</span>
       </div>
+
+      <div class="mt-24 w-100">
+        <p class="mt-4 " style="font-size: 2.5rem; text-align: center;">Next Topic: Screen recorder 🎉</p>
+        <p class="mt-4" style="font-size: 1.2rem">Our next topic is screen recording tools. Contributions are welcome🎉. <a href="/howtoshareaproduct.html" style="color: rgb(92, 123, 248);">Click Me!</a></p>
+      </div>
     </div>
   </div>
 </template>

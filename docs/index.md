@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: Discover your next "Wow" App on macOS, for 100% Free.
-  tagline: There aren't many apps on macOS that make you say \"Wow!\" but we'll help you find them.
+  name: Discover your next WoW App on macOS, for 100% Free!
+  tagline: There are some productivity apps on macOS that make you say "Wow!", we'll help you find them.
   image:
     src: /img/hero-image.webp
 ---
