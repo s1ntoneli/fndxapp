@@ -45,7 +45,7 @@ export default defineConfig({
     </div>
     <br/>
     Made by <a href="https://fndx.app" target="_blank">FNDX.app</a>`,
-      copyright: '<a href="https://cleanclip.cc" target="_blank">Find Your Next DAMN-GOOD App🔥</a>'
+      copyright: '<a href="https://cleanclip.cc" target="_blank">Find Your Next WoW App🔥</a>'
     }
   },
   sitemap: {
