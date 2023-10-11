@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Find Next Damn-Good App",
-  description: "There aren't many apps that make you say \"Damn Good!\" but we'll help you find them.",
+  title: "Find WoW App",
+  description: "There aren't many apps that make you say \"Wow!\" but we'll help you find them.",
   head: [
     ['script', { src: 'https://cdn.tailwindcss.com' }],
     ['link', {rel: "apple-touch-icon", sizes: "180x180", href: "/apple-touch-icon.png" }],
@@ -41,7 +41,7 @@ export default defineConfig({
 
     footer: {
       message: `      <div class="flex justify-center items-center">
-      <a href="https://www.producthunt.com/posts/find-next-damn-good-app?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-find&#0045;next&#0045;damn&#0045;good&#0045;app" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=418594&theme=light" alt="Find&#0032;Next&#0032;Damn&#0045;Good&#0032;App - Find&#0032;your&#0032;next&#0032;Damn&#0045;Good&#0032;App&#0044;&#0032;not&#0032;shits&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+      <a href="https://www.producthunt.com/posts/find-next-wow-app?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-find&#0045;next&#0045;wow&#0045;app" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=418594&theme=light" alt="Find&#0032;Next&#0032;Wow&#0032;App - Find&#0032;your&#0032;next&#0032;&#0034;Wow&#0034;&#0032;App&#0044;&#0032;for&#0032;100&#0037;&#0032;Free&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
     </div>
     <br/>
     Made by <a href="https://fndx.app" target="_blank">FNDX.app</a>`,

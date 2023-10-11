@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Find your Next DAMN-GOOD App, not shits"
-  tagline: There aren't many apps that make you say "Damn Good!", but we'll help you find them.
+  name: Find your next WoW App, for 100% Free!
+  tagline: There aren't many apps that make you say WoW, but we'll help you find them.
   image:
     src: /img/hero-image.webp
 ---
