@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Find WoW App",
-  description: "There aren't many apps that make you say \"Wow!\" but we'll help you find them.",
+  title: "Mac Wow Apps",
+  description: "There aren't many apps on macOS that make you say \"Wow!\" but we'll help you find them.",
   head: [
     ['script', { src: 'https://cdn.tailwindcss.com' }],
     ['link', {rel: "apple-touch-icon", sizes: "180x180", href: "/apple-touch-icon.png" }],
