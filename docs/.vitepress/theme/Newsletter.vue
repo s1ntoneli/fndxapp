@@ -56,7 +56,7 @@ const handleClick = async () => {
 <template>
   <div class="flex justify-center items-center mt-16">
     <div>
-      <div class="flex justify-center items-center">
+      <div class="flex justify-center items-center mt-12">
         <input type="email" placeholder="Enter your email" class="py-2 px-4 border rounded-md focus:ring-2 ring-2 ring-blue-500 w-72" style="appearance: none; width: 100%; height: auto; outline: none; border: none; padding: 16px 16px 16px 24px; border-radius: 58px; font-size: 16px; font-family: Inter, sans-serif; letter-spacing: 0em; line-height: 1em; background: rgb(39, 43, 46); color: rgb(255, 255, 255); box-shadow: rgb(255, 255, 255) 0px 0px 0px 0px inset;">
         <button @click="handleClick" class="ml-4 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-md" style="-webkit-appearance:none;appearance:none;width:50%;height:100%;outline:none;border:none;cursor:pointer;padding:15px 25px 15px 25px;border-radius:58px;font-weight:500;font-size:16px;font-family:&quot;Inter-Medium&quot;, &quot;Inter&quot;, sans-serif;font-style:normal;letter-spacing:0em;line-height:1em;background:rgb(255, 255, 255);color:rgb(39,43,46);z-index:1;box-shadow:none;">
           Get updates →
@@ -64,9 +64,6 @@ const handleClick = async () => {
       </div>
       <div class="flex justify-center items-center">
         <span class="mt-4 opacity-50 w-100 mx-4">🙋🏻🙋‍♂️🙋🏽‍♀️ Subscribe for the latest Damn-Good Product updates!</span>
-      </div>
-      <div class="flex justify-center items-center mt-12 footer">
-        <a href="https://www.producthunt.com/posts/find-next-damn-good-app?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-find&#0045;next&#0045;damn&#0045;good&#0045;app" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=418594&theme=light" alt="Find&#0032;Next&#0032;Damn&#0045;Good&#0032;App - Find&#0032;your&#0032;next&#0032;Damn&#0045;Good&#0032;App&#0044;&#0032;not&#0032;shits&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
       </div>
     </div>
   </div>
