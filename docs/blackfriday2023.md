@@ -1,6 +1,6 @@
 # 💵 Awesome Black Friday / Cyber Monday Deals - 2023 🤑
 
-A curated list of deals on Black Friday 2023. Feel free to add your app's deal below [with a Pull Request]([https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/74](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/367)).
+A curated list of deals on Black Friday 2023. Feel free to add your app's deal below [with a Pull Request](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/367).
 
 > The repo is made by trungdq88, pull request on the source repo, and I will sync it.
 
