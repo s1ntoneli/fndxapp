@@ -1,4 +1,4 @@
-# 💵 Awesome Black Friday / Cyber Monday Deals - 2023 🤑
+# 💵 Wow Black Friday Deals List - 2023 🤑
 
 A curated list of deals on Black Friday 2023. Feel free to add your app's deal below [with a Pull Request](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/367).
 
