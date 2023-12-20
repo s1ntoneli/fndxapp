@@ -11,7 +11,7 @@ These are 20 awesome Keyboard-First Apps that I have collected:
 | 2 |[Karabiner](https://karabiner-elements.pqrs.org/) | Key Customization, Complex modifications | Free | Utilities |
 | 3 |[Keyboard Maestro](https://www.keyboardmaestro.com/main/) | Macro Recorder, Automatic actions | $38 | Automation |
 | 4 |[Typinator](https://www.ergonis.com/products/typinator/) | Text expansion, Typing acceleration | $29.99 | Productivity |
-| 5 | [CleanClip](https://cleanclip.cc/) | Clipboard history management| $19.99 | Productivity |
+| 5 | [CleanClip](https://cleanclip.cc?ref=keyboardfirst) | Clipboard history management| $19.99 | Productivity |
 | 6 | [Quicksilver](https://qsapp.com/) | Quick launch | Free | Utilities |
 | 7 | [ShortCat](https://shortcatapp.com/) | Operate without using a mouse | Free | Productivity |
 | 5 | [KeyCue](https://www.ergonis.com/products/keycue/) | Shortcuts explorer for current program | $29.99 | Education |
