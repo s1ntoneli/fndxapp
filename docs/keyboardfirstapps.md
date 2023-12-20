@@ -1,4 +1,9 @@
-# 20 Awesome Keyboard-First Mac Apps
+# 20 Awesome Keyboard-First Mac Apps 😃
+
+The definition of a Keyboard-first App is: Your app should prioritize keyboard interaction, or it should help users use the keyboard more efficiently.
+A Keyboard-First App can help users improve focus, increase efficiency, and save a lot of time.
+
+These are 20 awesome Keyboard-First Apps that I have collected:
 
 | | App Name | Introduction | Price | Category |
 | --- | ----------- | --- | --- | --- |
@@ -22,3 +27,5 @@
 | 18 | [Hammerspoon](https://www.hammerspoon.org)  | A powerful scripting tool | Free | Scripting Tool |
 | 19 | [Alfred](https://www.alfredapp.com/) | Quicklaunch, Custom Hotkeys | Free, Powerpack £34 | Productivity |
 | 20 | [Vimac (now Homerow)](https://github.com/dexterleng/vimac) | Efficient Keyboard Navigation | Free | Productivity |
+
+If you believe that your app is also Keyboard-First, please send the website link and a brief description to fndx@gokoding.com, and we will add your app.

@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Discover WoW Mac Apps",
-  description: "There are some productivity apps on macOS that make you say \"Wow!\", we'll help you find them.",
+  title: "Discover AWESOME Mac Apps",
+  description: "There are some productivity apps on macOS that make you say \"AWESOME!\", we'll help you find them.",
   head: [
     ['script', { src: 'https://cdn.tailwindcss.com' }],
     ['link', {rel: "apple-touch-icon", sizes: "180x180", href: "/apple-touch-icon.png" }],
@@ -11,8 +11,8 @@ export default defineConfig({
     ['link', {rel: "icon", type: "image/png", sizes: "16x16", href: "/favicon-16x16.png" }],
     ['link', {rel: "icon", type: "image/ico", href: "/favicon.ico" }],
     ['link', {rel: "manifest", href: "/site.webmanifest" }],
-    ['meta', { property: 'og:title', content: 'fndx.app - Find Next Damn-Good App' }],
-    ['meta', { property: 'og:description', content: 'There are some productivity apps on macOS that make you say \"Wow!\", we\'ll help you find them.' }],
+    ['meta', { property: 'og:title', content: 'fndx.app - Find Next AWESOME App' }],
+    ['meta', { property: 'og:description', content: 'There are some productivity apps on macOS that make you say \"AWESOME!\", we\'ll help you find them.' }],
     ['meta', { property: 'og:image', content: 'https://fndx.app/img/hero-image.webp' }],
     ['meta', { property: 'og:url', content: 'https://fndx.app/' }],
     ['meta', { property: 'og:type', content: 'website' }],
@@ -42,12 +42,9 @@ export default defineConfig({
     ],
 
     footer: {
-      message: `      <div class="flex justify-center items-center">
-      <a href="https://www.producthunt.com/posts/find-next-wow-app?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-find&#0045;next&#0045;wow&#0045;app" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=418594&theme=light" alt="Find&#0032;Next&#0032;Wow&#0032;App - Find&#0032;your&#0032;next&#0032;&#0034;Wow&#0034;&#0032;App&#0044;&#0032;for&#0032;100&#0037;&#0032;Free&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-    </div>
-    <br/>
+      message: `
     Made by <a href="https://fndx.app" target="_blank">FNDX.app</a>`,
-      copyright: '<a href="https://cleanclip.cc" target="_blank">Find Your Next WoW App🔥</a>'
+      copyright: '<a href="https://fndx.app" target="_blank">Find Your Next AWESOME App🔥</a>'
     }
   },
   sitemap: {
