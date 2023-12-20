@@ -32,6 +32,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: '/img/fndx-logo2.png',
     nav: [
+      { text: '⌨️ 20 Keyboard-First Apps', link: '/keyboardfirstapps', activeMatch: '^/' },
       { text: '🎁 Black Friday 2023 Deals', link: '/blackfriday2023', activeMatch: '^/' },
       { text: 'Share Your Favorite Products', link: '/howtoshareaproduct' },
     ],
