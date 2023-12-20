@@ -14,7 +14,7 @@ These are 20 awesome Keyboard-First Apps that I have collected:
 | 5 | [CleanClip](https://cleanclip.cc?ref=keyboardfirst) | Clipboard history management| $19.99 | Productivity |
 | 6 | [Quicksilver](https://qsapp.com/) | Quick launch | Free | Utilities |
 | 7 | [ShortCat](https://shortcatapp.com/) | Operate without using a mouse | Free | Productivity |
-| 5 | [KeyCue](https://www.ergonis.com/products/keycue/) | Shortcuts explorer for current program | $29.99 | Education |
+| 8 | [KeyCue](https://www.ergonis.com/products/keycue/) | Shortcuts explorer for current program | $29.99 | Education |
 | 9 | [AText](https://www.trankynam.com/atext/) | Text expansion, Typing acceleration | $4.99 | Productivity |
 | 10 | [Magnet](https://magnet.crowdcafe.com/) | Window management, supports keyboard operations | $4.99 | Productivity |
 | 11 | [LaunchBar](https://obdev.at/products/launchbar/index.html) | Quick Launch, Custom Search | €35 | Productivity |
