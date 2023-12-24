@@ -39,6 +39,12 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: 'Recommended Apps',
+        items: [
+          { text: 'CleanClip - macOS clipboard manager', link: '/cleanclipbasedonmaccy' },
+        ]
+      },
+      {
         text: 'Best App Lists',
         items: [
           { text: '⌨️ 20 Keyboard-First Apps', link: '/keyboardfirstapps' },

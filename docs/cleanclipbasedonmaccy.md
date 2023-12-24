@@ -1,5 +1,4 @@
-
-# CleanClip - A Clipboard Tool Based on Maccy, Still Maintaining Lightweight, Clean, Easy-to-use.
+# CleanClip - A Clipboard Manager Based on Maccy, Still Maintaining Lightweight, Clean, Easy-to-use
 
 Hello everyone,
 
