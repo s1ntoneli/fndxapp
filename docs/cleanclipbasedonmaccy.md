@@ -46,8 +46,7 @@ Maccy
 |  | CleanClip | Maccy | Strength and Weakness |
 | --- | --- | --- | --- |
 | Paste Item | Number | ⌘+Number |  |
-| Paste as Plain Text | Long press number, then short press number | ⌘+⇧+Number | CleanClip's keys are easier to remember and support more formats.
-Maccy is faster, no need for an extra menu, but you need to remember the combination keys. |
+| Paste as Plain Text | Long press number, then short press number | ⌘+⇧+Number | CleanClip's keys are easier to remember and support more formats. Maccy is faster, no need for an extra menu, but you need to remember the combination keys. |
 | Preview | Space | Mouse hover |  |
 | Search | Enter letters directly to search | Enter letters directly to search |  |
 | Paste Pinboards | ⌘;; Number | ⌘; ⌘+Letter | CleanClip's page is cleaner, Maccy does not need to switch pages. |
