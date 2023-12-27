@@ -19,6 +19,8 @@ Both are minimalist styles, with CleanClip leaning towards a white minimalist de
 
 ![CleanClip](cleanclipui.png)
 
+CleanClip
+
 ![Maccy](maccyui.png)
 
 Maccy
@@ -52,7 +54,7 @@ Maccy
 | Paste Pinboards | ⌘;; Number | ⌘; ⌘+Letter | CleanClip's page is cleaner, Maccy does not need to switch pages. |
 | Paste Stack | ⌘’ | Not Supported |  |
 
-n summary, we can observe that except for invoking the window, **CleanClip does not employ any unnecessary modifiers**. This approach significantly **minimizes cognitive load and enhances operation efficiency**.
+In summary, we can observe that except for invoking the window, **CleanClip does not employ any unnecessary modifiers**. This approach significantly **minimizes cognitive load and enhances operation efficiency**.
 
 ---
 
