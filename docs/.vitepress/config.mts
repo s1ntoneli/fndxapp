@@ -32,7 +32,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: '/img/fndx-logo2.png',
     nav: [
-      { text: '🎁 Christmas & New Year 2023 Deals List', link: '/christmasnewyear2023', activeMatch: '^/' },
+      { text: '🎁 Black Friday 2024 Deals', link: '/blackfriday2024', activeMatch: '^/' },
       { text: '⌨️ 20 Keyboard-First Apps', link: '/keyboardfirstapps', activeMatch: '^/' },
       { text: 'Share Your Favorite Products', link: '/howtoshareaproduct' },
     ],
@@ -55,6 +55,7 @@ export default defineConfig({
         items: [
           { text: '🎁 Christmas & New Year 2023 Deals List', link: '/christmasnewyear2023'},
           { text: '🎁 Black Friday 2023 Deals', link: '/blackfriday2023'},
+          { text: '🎁 Black Friday 2024 Deals', link: '/blackfriday2024'},
         ]
       },
     ],
