@@ -6,123 +6,123 @@ A curated list of deals on Black Friday 2024 from [Awesome Black Friday Deals 20
 
 Total deals: 356
 
-- [👨‍💻 Developer Tools ](#-developer-tools)
-	- [💻 Developer macOS Apps (14)](#-developer-macos-apps)
-	- [💻 Tools & Services (30)](#-tools--services)
-- [🤖 AI Tools ](#-ai-tools)
-	- [💬 AI Chat UI (10)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (24)](#-ai-productivity--learning-tools)
-	- [✨ Other AI tools (10)](#-other-ai-tools)
-- [🌅 Design Tools (23)](#-design-tools)
-- [⌨️ Code Libraries (3)](#️-code-libraries)
-- [🔥 Productivity ](#-productivity)
-	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
+- [👨‍💻 Developer Tools ](#👨‍💻-developer-tools)
+	- [💻 Developer macOS Apps (14)](#💻-developer-macos-apps)
+	- [💻 Tools & Services (30)](#💻-tools--services)
+- [🤖 AI Tools ](#🤖-ai-tools)
+	- [💬 AI Chat UI (10)](#💬-ai-chat-ui)
+	- [📖 AI Productivity & Learning Tools (24)](#📖-ai-productivity--learning-tools)
+	- [✨ Other AI tools (10)](#✨-other-ai-tools)
+- [🌅 Design Tools (23)](#🌅-design-tools)
+- [⌨️ Code Libraries (3)](#⌨️-code-libraries)
+- [🔥 Productivity ](#🔥-productivity)
+	- [🖥️ Productivity Desktop Apps ](#🖥️-productivity-desktop-apps)
 		- [Tasks, Organize, Planning (15)](#tasks-organize-planning)
 		- [Window, Screen, Clipboard, Utilities (8)](#window-screen-clipboard-utilities)
 		- [Time, Distraction, Focus (3)](#time-distraction-focus)
 		- [Miscellaneous Productivity Apps (7)](#miscellaneous-productivity-apps)
-	- [📱 Productivity Mobile Apps (9)](#-productivity-mobile-apps)
-	- [🛠️ Productivity Tools & Services (10)](#️-productivity-tools--services)
-- [🌈 Marketing Tools (19)](#-marketing-tools)
-- [🔍 SEO Tools (16)](#-seo-tools)
-- [🚀 Startup SaaS/Tools (14)](#-startup-saastools)
-- [🌏 Social Media Tools (12)](#-social-media-tools)
-- [💸 Finance Tools (5)](#-finance-tools)
-- [🎛 Utility Tools (10)](#-utility-tools)
-- [💅 Boilerplates, Starter-Kit, Templates (28)](#-boilerplates-starter-kit-templates)
-- [🧩 Themes, Plugins (2)](#-themes-plugins)
-- [📚 Books ](#-books)
-	- [📗 Programming Books ](#-programming-books)
+	- [📱 Productivity Mobile Apps (9)](#📱-productivity-mobile-apps)
+	- [🛠️ Productivity Tools & Services (10)](#🛠️-productivity-tools--services)
+- [🌈 Marketing Tools (19)](#🌈-marketing-tools)
+- [🔍 SEO Tools (16)](#🔍-seo-tools)
+- [🚀 Startup SaaS/Tools (14)](#🚀-startup-saastools)
+- [🌏 Social Media Tools (12)](#🌏-social-media-tools)
+- [💸 Finance Tools (5)](#💸-finance-tools)
+- [🎛 Utility Tools (10)](#🎛-utility-tools)
+- [💅 Boilerplates, Starter-Kit, Templates (28)](#💅-boilerplates-starter-kit-templates)
+- [🧩 Themes, Plugins (2)](#🧩-themes-plugins)
+- [📚 Books ](#📚-books)
+	- [📗 Programming Books ](#📗-programming-books)
 		- [Web Dev & Design (5)](#web-dev--design)
 		- [Apps Development (Mobile/Desktop) (5)](#apps-development-mobiledesktop)
 		- [Backend Dev / Data Science (4)](#backend-dev--data-science)
 		- [Misc Programming Books (5)](#misc-programming-books)
-	- [📘 Startup & Career Books (4)](#-startup--career-books)
-	- [📕 Marketing Books (4)](#-marketing-books)
-- [📹 Courses ](#-courses)
-	- [💻 Programming Courses (16)](#-programming-courses)
-	- [🔒 Information Security Courses (2)](#-information-security-courses)
-	- [🎢 Career Courses (6)](#-career-courses)
-	- [📈 Marketing Courses (3)](#-marketing-courses)
-- [💪 Health and Fitness (4)](#-health-and-fitness)
-- [👨‍🎨 Miscellaneous (26)](#-miscellaneous)
+	- [📘 Startup & Career Books (4)](#📘-startup--career-books)
+	- [📕 Marketing Books (4)](#📕-marketing-books)
+- [📹 Courses ](#📹-courses)
+	- [💻 Programming Courses (16)](#💻-programming-courses)
+	- [🔒 Information Security Courses (2)](#🔒-information-security-courses)
+	- [🎢 Career Courses (6)](#🎢-career-courses)
+	- [📈 Marketing Courses (3)](#📈-marketing-courses)
+- [💪 Health and Fitness (4)](#💪-health-and-fitness)
+- [👨‍🎨 Miscellaneous (26)](#👨‍🎨-miscellaneous)
 
 ## 👨‍💻 Developer Tools
 
 ### 💻 Developer macOS Apps
 
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-|  ⭐ | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
-|  ⭐ | [Proxyman](https://proxyman.io/) | Debug Network HTTP/HTTPS Faster like a Pro. Support macOS Sequoia, iOS, Windows, and Linux. | 30% OFF for all plans with code **BLACKFRIDAY2024** |
-|  ⭐ | [Aptakube](https://aptakube.com) | Kubernetes GUI: Multi-Cluster, Modern. Lightweight. Multi-Cluster. Works on Windows, macOS and Linux. | 30% OFF with code **BLACKFRIDAY2024** |
-|  🌐 | [LocalCan™](https://www.localcan.com/) | #1 Ngrok alternative. Without subscription. With .local domains and top-rated UX. | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF |
-|  🐳 | [WhaleDeck](https://apple.co/3NQJi4w) | The only Docker manager you will ever need. Available for macOS, iOS, and iPadOS. | Lifetime 20% off |
-|  🖥️ | [DevControls](https://jontelang.com/DevControls) | Project management and shortcuts in your macOS menu bar | **BLACKFRIDAY2024** 25% off |
-|  🦄 | [Kaleidoscope](https://kaleidoscope.app) | The world's most powerful file comparison and merge app, with deep git integration. | **BLACKFRIDAY2024** First Year 40% OFF |
-|  🖥️ | [GetBlock](https://getblock.io/) | Leading blockchain node provider for 50+ networks. Reliable, fast, and easy to integrate RPC endpoints. | **30% off on Shared Nodes** till December 2d 2024 |
-|  🛡️ | [DeskVault](https://deskvault.app/) | All your Stripe accounts & revenue in one private desktop app. | 30% OFF with code **BF24** |
-|  🖥️ | [OK JSON](https://okjson.app/) | Scriptable JSON formatter with viewing history. | 50% OFF with code **BF2024** |
-|  🖥️ | [Sip](https://www.sipapp.io) | Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF_2024** and **CM_2024** |
-| 🚀 | [RocketSim](https://www.rocketsim.app) | Boost your productivity and streamline your workflow with powerful Xcode Simulator tools. | 50% OFF with code **BLACKFRIDAY** from Nov 26 - Nov 30 |
-| 💰 | [DropDMG](https://c-command.com/dropdmg/) | The easiest way to create and work with Mac disk images (.dmg files). | **BLACKFRIDAY2024** 25% off |
-| ⚡️ | [CSV Table](https://csvtable.com/) | View & edit CSV, JSON files for Pros | on-site 50% off |
+|  | Name | Platform | Type | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ | ------ | ------ |
+|  ⭐ | [DevUtils](https://devutils.com) | macOS | Developer Tool | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+|  ⭐ | [Proxyman](https://proxyman.io/) | macOS/Windows/Linux | Network Tool | Debug Network HTTP/HTTPS Faster like a Pro. Support macOS Sequoia, iOS, Windows, and Linux. | 30% OFF for all plans with code **BLACKFRIDAY2024** |
+|  ⭐ | [Aptakube](https://aptakube.com) | macOS/Windows/Linux | Kubernetes GUI | Kubernetes GUI: Multi-Cluster, Modern. Lightweight. Multi-Cluster. Works on Windows, macOS and Linux. | 30% OFF with code **BLACKFRIDAY2024** |
+|  🌐 | [LocalCan™](https://www.localcan.com/) | macOS | Network Tool | #1 Ngrok alternative. Without subscription. With .local domains and top-rated UX. | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF |
+|  🐳 | [WhaleDeck](https://apple.co/3NQJi4w) | macOS/iOS | Docker Manager | The only Docker manager you will ever need. Available for macOS, iOS, and iPadOS. | Lifetime 20% off |
+|  🖥️ | [DevControls](https://jontelang.com/DevControls) | macOS | Project Management | Project management and shortcuts in your macOS menu bar | **BLACKFRIDAY2024** 25% off |
+|  🦄 | [Kaleidoscope](https://kaleidoscope.app) | macOS | File Comparison | The world's most powerful file comparison and merge app, with deep git integration. | **BLACKFRIDAY2024** First Year 40% OFF |
+|  🖥️ | [GetBlock](https://getblock.io/) | Web Service | Blockchain | Leading blockchain node provider for 50+ networks. Reliable, fast, and easy to integrate RPC endpoints. | **30% off on Shared Nodes** till December 2d 2024 |
+|  🛡️ | [DeskVault](https://deskvault.app/) | macOS | Finance Tool | All your Stripe accounts & revenue in one private desktop app. | 30% OFF with code **BF24** |
+|  🖥️ | [OK JSON](https://okjson.app/) | macOS | JSON Tool | Scriptable JSON formatter with viewing history. | 50% OFF with code **BF2024** |
+|  🖥️ | [Sip](https://www.sipapp.io) | macOS | Color Tool | Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF_2024** and **CM_2024** |
+| 🚀 | [RocketSim](https://www.rocketsim.app) | macOS | iOS Development | Boost your productivity and streamline your workflow with powerful Xcode Simulator tools. | 50% OFF with code **BLACKFRIDAY** from Nov 26 - Nov 30 |
+| 💰 | [DropDMG](https://c-command.com/dropdmg/) | macOS | Disk Image Tool | The easiest way to create and work with Mac disk images (.dmg files). | **BLACKFRIDAY2024** 25% off |
+| ⚡️ | [CSV Table](https://csvtable.com/) | macOS | CSV Editor | View & edit CSV, JSON files for Pros | on-site 50% off |
 
 [⬆️ Go to Top](#table-of-contents)
 
 ### 💻 Tools & Services
 
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-|  ⭐ | [Tailscan for Tailwind CSS](https://tailscan.com) | The ultimate devtool browser extension for Tailwind CSS. Inspect, debug, convert and more! | 25% OFF! |
-|  ⭐ | [snappify](https://snappify.com) | A powerful PowerPoint alternative for developers. Create stunning presentations, smoothly animated videos and elevate your technical content! | 30% OFF the first year with the code **BF_2024** |
-| 📸 | [ScreenshotOne](https://screenshotone.com) | The best screenshot API for developers. | 25% OFF with code **BLACKFRIDAY2024** on all annual plans for the first year. |
-|  🛟 | [HelpKit](https://www.helpkit.so) | Notion to Help Center & Doc Site. Turn your Notion pages into a professional knowledge base. Comes with an embeddable widget, full-text search, AI chatbot, analytics, article reactions and more! | 30% OFF on all plans with code **BLACKFRIDAY2024**
-|  ⭐ | [Static.app](https://static.app/) | Static website hosting - One-click hosting solution for your static website. | 30% OFF with code **BLACK24** |
-|  ⭐ | [Pulsetic](https://pulsetic.com/) | Website uptime monitoring service - Get website downtime alerts by phone call, SMS, email or Slack if your website is down. Create beautiful status pages & incident management reports and keep your visitors updated. | 30% OFF with code **BLACK24** |
-|  ⭐ | [Guidejar](https://guidejar.com) | Create Interactive Product Demos and Step-by-Step Guides effortlessly - with powerful features like no-code help center, AI translate & voicover, lead capture forms, analytics and more! | 40% OFF on all plans with code **BLACKFRIDAY24** |
-|  ⭐ | [Hoverify](https://tryhoverify.com) | All-in-one browser extension with tools to enhance your web development experience and take your productivity to the next level. | 30% OFF! |
-|  ⭐ | [Small Hours](https://smallhours.dev) | AI powered automated root cause analysis - minimize downtime, maximize efficiency. | 50% OFF on startup and enterprise plans with code **BLACKFRIDAY24** |
-|  ✅ | [Interact List](https://interactlist.com) | Design and share your own styled Checklists ✨| [50% off Lifetime License](https://shop.interactlist.com/buy/1fdb3171-2c66-4577-80ab-b911be2ecc96?embed=0&logo=0&checkout[discount_code]=BLACK24) |
-|  ⭐ | [Skymage](https://skymage.daudau.cc) | Resize and crop images for developers. Optimize and transform your images with the best performance and quality on the sky | 50% OFF on all plans with code **BLACKFRIDAY** |
- | 📩 | [Web3Forms](https://web3forms.com/) | Contact form API for static websites | 30% off on all Pro plans with code **BLACKFRIDAY** |
-| 📩 | [TradingView History](https://chromewebstore.google.com/detail/recently-viewed-for-tradi/ibcpkeflilobhmhphlabfiefdcebmdal/) | TradingView History for traders | 50% off on Lifetime plan with code **BLACKFRIDAY2024** |
-|  🧭 | [Azimutt](https://azimutt.app) | The best database visualization for teams with large databases | 50% OFF with code **BF24** |
-|  ⭐ | [CreateMyToken](https://www.createmytoken.com/) | Create your own token in just 1 minute and deploy it on Ethereum, Solana, Base, BNB Smart Chain and more! No code, no setup, no login! | 30% off on all paid options with code **BLACKFRIDAY** |
-| ⭐ | [screenpipe](https://screenpi.pe/) | rewind.ai x cursor.com = AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. | 30% OFF |
-|  👀 | [Oh Dear](https://ohdear.app) | Monitor uptime, SSL certifcates, broken links, scheduled jobs, domain expiry, DNS records, and much more! We offer beautiful status pages as well. Get alerted via mail, SMS, Slack, webhooks and may other channels.  | 30% off on all yearly plans code **BACKFRIDAY24** |
-|  ⭐ | [TagHound](https://chromewebstore.google.com/detail/taghound-analyticsgtmpixe/canpneabbfipaelecfibpmmjbdkiaolf) | Validate and debug +22 analytics tools, Google Tag Manager and ad platforms pixels with ease. | [25% OFF on all plans for TagHound Plus with code *BLACK24*](https://trafikant.gumroad.com/l/TagHoundPlus) |
-|  🐰 | [CodeRabbit](https://coderabbit.ai) | AI-Powered Code Review Bot - Detailed code reviews and suggestions to improve code quality. Supports GitHub, GitLab. | Free for open source projects |
-| 📧 | [DMARCwise](https://dmarcwise.io/?ref=awesomebf) | Simple DMARC monitoring and analysis tool to protect your domain from email spoofing. | 30% OFF on all annual plans with code **BF2024** |
-| 📧 | [Shootmail](https://shootmail.app) | Notion-like email builder with pre-built beautiful email templates. Send mails using the SDK with your favourite ESP like Resend, Sendgrid, AWS SES, Zoho, Postmark| **50% OFF** on lifetime access with code **50POFF** |
-| 🤑 | [Pixpa](https://www.pixpa.com/?via=blfpixpa55) | Pixpa is an all-in-one, no-code website builder for creatives and small businesses to create beautiful, professional websites with an in-built online store, a dynamic blog, client galleries, ecommerce galleries, a photo gallery app, and marketing tools. Pixpa’s versatile platform has everything you need to showcase your work, share ideas, and sell your work online without any coding knowledge.| Use this promo code **BLFPIXPA55** to get up to **55% discount** on annual plans.|
-| 🛠️ | [Composio](https://composio.dev) | Integration platform for AI Agents & LLM Apps - connect over 200+ tools. | **75% OFF** for three months with code **BF2024** |
-| 💱 | [ExchangeRate-API](https://www.exchangerate-api.com) | Currency API trusted by devs since 2010. | Recurring **30% OFF** with code **2024BLACKFRIDAY** on all annual plans |
-| 🛠️ | [BCMS](https://thebcms.com) | BCMS is a headless CMS Built for developers, loved by their clients | Lifetime **80% OFF**, with code **BF2024** |
-| 🔥 | [fullPage.js](https://alvarotrigo.com/fullPage/black-friday/) | Create Beautiful Scroll Snap Websites in minutes, not hours. Available for JavaScript (JS, React, Vue) and WordPress (Divi, Elementor, Gutenberg). | Up to **40% OFF**, with code **BLACKF** | 
-| ⚡️ | [Wallaby.js](https://wallabyjs.com/) and [Quokka.js](https://quokkajs.com) | Supercharge your JavaScript/TypeScript workflow with real-time testing, debugging, and instant code feedback - perfect companions for working with AI generated code. | Nov-20 to Dec-02 Quokka: **50% OFF**, Wallaby: **30% OFF** | 
-| 🥑 | [Avo for Ruby on Rails](http://avohq.io/deals) | Build Internal Tools, Content Management Systems and CRMs in weeks, not months. | Perpetual **15% OFF** discount | 
-| 🚀 | [ConnectyCube](https://connectycube.com/pricing/) | ConnectyCube is a backend platform offering APIs, SDKs, and tools to integrate chat, voice, and video features into mobile and web apps | **25% off** for 3 months with the code **CC2025** |
-| 🚀 | [OpenWeb Ninja](https://www.openwebninja.com) | Fast and Reliable Web Data & SERP API Stack – Ideal for Marketers, AI / Data Scientists, and Developers Looking to Get Public Data from the Web. | **20% OFF** any plan - **Contact us** on our website | 
-| 🚀 | [Scrappey](https://scrappey.com) | Scrappey.com simplifies web scraping with a robust API that handles anti-bot measures and CAPTCHAs, along with features like rotating proxies and headless browsing for seamless extraction. It offers transparent pricing plans suitable for individuals, startups, and enterprises, with features like concurrent requests, premium proxies, and JavaScript rendering, and hassle-free cancellation options. | **20% OFF**, with code **BLACKFRIDAY** | 
+|  | Name | Platform | Type | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ | ------ | ------ |
+|  ⭐ | [Tailscan for Tailwind CSS](https://tailscan.com) | Browser Extension | CSS Tool | The ultimate devtool browser extension for Tailwind CSS. Inspect, debug, convert and more! | 25% OFF! |
+|  ⭐ | [snappify](https://snappify.com) | Web Service | Presentation Tool | A powerful PowerPoint alternative for developers. Create stunning presentations, smoothly animated videos and elevate your technical content! | 30% OFF the first year with the code **BF_2024** |
+| 📸 | [ScreenshotOne](https://screenshotone.com) | Web Service | Screenshot API | The best screenshot API for developers. | 25% OFF with code **BLACKFRIDAY2024** on all annual plans for the first year. |
+|  🛟 | [HelpKit](https://www.helpkit.so) | Web Service | Documentation | Notion to Help Center & Doc Site. Turn your Notion pages into a professional knowledge base. | 30% OFF on all plans with code **BLACKFRIDAY2024** |
+|  ⭐ | [Static.app](https://static.app/) | Web Service | Web Hosting | Static website hosting - One-click hosting solution for your static website. | 30% OFF with code **BLACK24** |
+|  ⭐ | [Pulsetic](https://pulsetic.com/) | Web Service | Monitoring | Website uptime monitoring service - Get website downtime alerts. | 30% OFF with code **BLACK24** |
+|  ⭐ | [Guidejar](https://guidejar.com) | Web Service | Documentation | Create Interactive Product Demos and Step-by-Step Guides effortlessly. | 40% OFF on all plans with code **BLACKFRIDAY24** |
+|  ⭐ | [Hoverify](https://tryhoverify.com) | Browser Extension | Developer Tool | All-in-one browser extension with tools to enhance your web development experience. | 30% OFF! |
+|  ⭐ | [Small Hours](https://smallhours.dev) | Web Service | Analytics | AI powered automated root cause analysis - minimize downtime, maximize efficiency. | 50% OFF on startup and enterprise plans with code **BLACKFRIDAY24** |
+|  ✅ | [Interact List](https://interactlist.com) | Web Service | Checklist Tool | Design and share your own styled Checklists ✨| [50% off Lifetime License](https://shop.interactlist.com/buy/1fdb3171-2c66-4577-80ab-b911be2ecc96?embed=0&logo=0&checkout[discount_code]=BLACK24) |
+|  ⭐ | [Skymage](https://skymage.daudau.cc) | Web Service | Image Tool | Resize and crop images for developers. | 50% OFF on all plans with code **BLACKFRIDAY** |
+| 📩 | [Web3Forms](https://web3forms.com/) | Web Service | Form Tool | Contact form API for static websites | 30% off on all Pro plans with code **BLACKFRIDAY** |
+| 📩 | [TradingView History](https://chromewebstore.google.com/detail/recently-viewed-for-tradi/ibcpkeflilobhmhphlabfiefdcebmdal/) | Browser Extension | Trading Tool | TradingView History for traders | 50% off on Lifetime plan with code **BLACKFRIDAY2024** |
+|  🧭 | [Azimutt](https://azimutt.app) | Web Service | Database Tool | The best database visualization for teams with large databases | 50% OFF with code **BF24** |
+|  ⭐ | [CreateMyToken](https://www.createmytoken.com/) | Web Service | Blockchain | Create your own token in just 1 minute and deploy it on multiple chains. | 30% off on all paid options with code **BLACKFRIDAY** |
+| ⭐ | [screenpipe](https://screenpi.pe/) | Desktop App | Screen Recording | rewind.ai x cursor.com = AI assistant that has all the context. | 30% OFF |
+|  👀 | [Oh Dear](https://ohdear.app) | Web Service | Monitoring | Monitor uptime, SSL certifcates, broken links, scheduled jobs, domain expiry, DNS records. | 30% off on all yearly plans code **BACKFRIDAY24** |
+|  ⭐ | [TagHound](https://chromewebstore.google.com/detail/taghound-analyticsgtmpixe/canpneabbfipaelecfibpmmjbdkiaolf) | Browser Extension | Analytics | Validate and debug +22 analytics tools, Google Tag Manager and ad platforms pixels. | [25% OFF on all plans with code *BLACK24*](https://trafikant.gumroad.com/l/TagHoundPlus) |
+|  🐰 | [CodeRabbit](https://coderabbit.ai) | Web Service | Code Review | AI-Powered Code Review Bot - Detailed code reviews and suggestions. | Free for open source projects |
+| 📧 | [DMARCwise](https://dmarcwise.io/?ref=awesomebf) | Web Service | Email Tool | Simple DMARC monitoring and analysis tool to protect your domain from email spoofing. | 30% OFF on all annual plans with code **BF2024** |
+| 📧 | [Shootmail](https://shootmail.app) | Web Service | Email Tool | Notion-like email builder with pre-built beautiful email templates. | **50% OFF** on lifetime access with code **50POFF** |
+| 🤑 | [Pixpa](https://www.pixpa.com/?via=blfpixpa55) | Web Service | Website Builder | All-in-one, no-code website builder for creatives and small businesses. | Use code **BLFPIXPA55** to get up to **55% discount** on annual plans.|
+| 🛠️ | [Composio](https://composio.dev) | Web Service | Integration | Integration platform for AI Agents & LLM Apps - connect over 200+ tools. | **75% OFF** for three months with code **BF2024** |
+| 💱 | [ExchangeRate-API](https://www.exchangerate-api.com) | Web Service | API | Currency API trusted by devs since 2010. | Recurring **30% OFF** with code **2024BLACKFRIDAY** on all annual plans |
+| 🛠️ | [BCMS](https://thebcms.com) | Web Service | CMS | BCMS is a headless CMS Built for developers, loved by their clients | Lifetime **80% OFF**, with code **BF2024** |
+| 🔥 | [fullPage.js](https://alvarotrigo.com/fullPage/black-friday/) | JavaScript Library | Web Development | Create Beautiful Scroll Snap Websites in minutes. | Up to **40% OFF**, with code **BLACKF** | 
+| ⚡️ | [Wallaby.js](https://wallabyjs.com/) and [Quokka.js](https://quokkajs.com) | IDE Plugin | JavaScript Tool | Supercharge your JavaScript/TypeScript workflow. | Nov-20 to Dec-02 Quokka: **50% OFF**, Wallaby: **30% OFF** | 
+| 🥑 | [Avo for Ruby on Rails](http://avohq.io/deals) | Web Framework | Ruby Tool | Build Internal Tools, Content Management Systems and CRMs. | Perpetual **15% OFF** discount | 
+| 🚀 | [ConnectyCube](https://connectycube.com/pricing/) | Web Service | Communication | Backend platform for chat, voice, and video features. | **25% off** for 3 months with code **CC2025** |
+| 🚀 | [OpenWeb Ninja](https://www.openwebninja.com) | Web Service | Web Scraping | Fast and Reliable Web Data & SERP API Stack. | **20% OFF** any plan - **Contact us** on our website | 
+| 🚀 | [Scrappey](https://scrappey.com) | Web Service | Web Scraping | Web scraping API that handles anti-bot measures and CAPTCHAs. | **20% OFF**, with code **BLACKFRIDAY** | 
 
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🤖 AI Tools
 
 ### 💬 AI Chat UI
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 🧠 | [TypingMind](https://www.typingmind.com/?utm_source=tonybf) | Personal AI workspace. Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 55% OFF Lifetime Premium Plan **BLACKFRIDAY_2024** |
-| 💬 | [ChatHub](https://chathub.gg/?utm_source=bf) | Chat with multiple AI models side by side. | 10% OFF annual subscription with code **BFCM24** |
-|  ⚡ | [BoltAI](https://boltai.com?via=awesomebf) | Access all AI models in one _native_ Mac app. Switch between top AI services and local models. All from a single app on your Mac. | 30% OFF with code **BFCM2024** |
-|  ✍️ | [Kerlig™](https://www.kerlig.com/) | #1 Grammarly alternative. AI Writing Assistant & Chat for macOS, 350+ models, vision, attachments, presets, tones of voice | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF  |
-|  ⭐ | [Zen AI](https://design.getzenai.com/) | Automate your daily prompts with an easy-to-use workflow AI. | 50% OFF with code **BLACKFRIDAY2024** |
-|  📝 | [Writers Brew AI](https://writersbrew.app/) | #1 AI Writing app. An AI writing assistant app that works across your macOS | Bundle upto 60% OFF  |
-|  ✨ | [FridayGPT](https://fridaygpt.app/) | AI Copilot for your Mac. Instant access to multiple LLM models, voice-to-text and quick AI actions | 30% OFF with code **ABFCM30** |
-| ⭐ | [AI4Chat](https://www.ai4chat.co/) | Use 100+ AI models on one platform — at a fraction of the cost | 20% OFF - Use the coupon code: **BF20** to receive the discount |
-| ✳️ | [Quartzite](https://www.quartzite.ai/) | Powerful prompt builder for GPT, Claude, Gemini, and more | 50% OFF annual subscription with code **BF50** |
-| 🧠 | [StylerGPT](https://stylergpt.com/) | ChatGPT Theme Editor with Power-Ups. A browser extension to customize and enhance your ChatGPT interface. | 20% OFF Lifetime Premium Plan **BF24** |
+|  | Name | Platform | Type | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ | ------ | ------ |
+| 🧠 | [TypingMind](https://www.typingmind.com/?utm_source=tonybf) | Web Service | AI Chat | Personal AI workspace. Frontend for ChatGPT, Claude, Gemini. | 55% OFF Lifetime Premium Plan **BLACKFRIDAY_2024** |
+| 💬 | [ChatHub](https://chathub.gg/?utm_source=bf) | Browser Extension | AI Chat | Chat with multiple AI models side by side. | 10% OFF annual subscription with code **BFCM24** |
+|  ⚡ | [BoltAI](https://boltai.com?via=awesomebf) | macOS | AI Chat | Access all AI models in one native Mac app. | 30% OFF with code **BFCM2024** |
+|  ✍️ | [Kerlig™](https://www.kerlig.com/) | macOS | AI Writing | #1 Grammarly alternative. AI Writing Assistant & Chat. | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF  |
+|  ⭐ | [Zen AI](https://design.getzenai.com/) | Web Service | AI Workflow | Automate your daily prompts with an easy-to-use workflow AI. | 50% OFF with code **BLACKFRIDAY2024** |
+|  📝 | [Writers Brew AI](https://writersbrew.app/) | macOS | AI Writing | #1 AI Writing app for macOS. | Bundle upto 60% OFF  |
+|  ✨ | [FridayGPT](https://fridaygpt.app/) | macOS | AI Assistant | AI Copilot for your Mac. | 30% OFF with code **ABFCM30** |
+| ⭐ | [AI4Chat](https://www.ai4chat.co/) | Web Service | AI Chat | Use 100+ AI models on one platform. | 20% OFF - Use code: **BF20** |
+| ✳️ | [Quartzite](https://www.quartzite.ai/) | Web Service | AI Prompt | Powerful prompt builder for GPT, Claude, Gemini. | 50% OFF annual subscription with code **BF50** |
+| 🧠 | [StylerGPT](https://stylergpt.com/) | Browser Extension | ChatGPT Theme | ChatGPT Theme Editor with Power-Ups. | 20% OFF Lifetime Premium Plan **BF24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -249,13 +249,13 @@ Total deals: 356
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+| 💰 | [CleanClip](https://cleanclip.cc/) | The cleanest system-level clipboard manager for Mac. | 30% OFF with code **BF2024** |
 | ⭐ | [Radar](https://getradar.co) | Track important metrics from your menubar with analytics & threshold alerts. Available for macOS, Windows, Linux, Android & iOS. | 30% OFF with code **BLACK24** |
 | 🪟 | [Lasso - Window Manager](https://thelasso.app) | Lasso is a powerful window manager for macOS that allows you to easily move and resize windows with your mouse or keybord. | 45% OFF with code **BLACKFRIDAY24** |
 | 🖥️ | [Wins - Brand New Window Manager](https://wins.cool) | A New Mac Window Manager. Dock Window Previewer, Aero shake, Mission Control Pro and more. Bring System-level Arrange Window features to Mac | 40% OFF with code **BLACKFRIDAY_2024** |
 | 💰 | [DisplayBuddy](https://displaybuddy.app/?r=awesome) | Control the brightness of monitors directly from your Mac - no need to touch your monitor buttons! | 25% OFF with code **BLACKFRIDAY**|
 |  📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY24) | A macOS app for recording face overlay in videos with customizable settings. One-time payment alternative to Loom. | 40% OFF with code **BLACKFRIDAY24** |
 | ⚡ | [TextSniper](https://textsniper.app/) | Extract text (OCR) from visuals, scan QR codes/barcodes, and more from anywhere on your Mac. | 60% OFF with code **BFCM24** |
-| 💰 | [CleanClip](https://cleanclip.cc/) | The cleanest system-level clipboard manager for Mac. | 30% OFF with code **BF2024** |
 | ⭐ | [Badgeify](https://badgeify.app) | Add Any App to Your Mac Menu Bar. | 30% OFF with code **BLACKFRIDAY2024** |
 
 [⬆️ Go to Top](#table-of-contents)
